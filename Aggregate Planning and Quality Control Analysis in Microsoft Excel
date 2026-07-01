@@ -1,0 +1,68 @@
+📊 Aggregate Planning & Quality Control Analysis
+This project demonstrates the implementation of **Aggregate Planning** and **Quality Control** using **Microsoft Excel**. The analysis focuses on comparing production planning strategies and evaluating process stability through Statistical Process Control (SPC).
+
+Project Objectives
+- Compare different aggregate planning strategies.
+- Analyze production costs under each strategy.
+- Evaluate process stability using a c-Chart.
+- Support production planning and quality improvement through data analysis.
+
+Analysis Included
+Aggregate Planning
+The project compares three production planning strategies:
+- Level Strategy
+- Chase Strategy
+- Subcontract Strategy
+
+Each strategy is evaluated based on:
+- Labor Cost
+- Inventory Holding Cost
+- Hiring Cost
+- Layoff Cost
+- Subcontracting Cost
+- Total Production Cost
+
+Statistical Quality Control (SPC)
+A "c-Chart" is constructed to monitor the number of nonconformities during the production process.
+
+The analysis includes:
+- Center Line (C̄)
+- Upper Control Limit (UCL)
+- Lower Control Limit (LCL)
+- Process Stability Evaluation
+
+Tools
+- Microsoft Excel
+- Aggregate Planning
+- Statistical Process Control (SPC)
+- c-Chart
+- Cost Analysis
+- Production Planning
+- Data Visualization
+
+Key Results
+- Compared the performance of **Level**, **Chase**, and **Subcontract** strategies.
+- Calculated total production costs for each strategy.
+- Identified the most cost-efficient production planning strategy.
+- Evaluated process stability using a **c-Chart**.
+- Detected observations outside the control limits, indicating potential special cause variation.
+
+Files
+- Excel Analysis
+- Aggregate Planning Calculations
+- Cost Comparison
+- c-Chart Visualization
+
+Skills Demonstrated
+- Production Planning
+- Cost Analysis
+- Statistical Process Control
+- Quality Control
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+- Operations Management
+
+Author
+Oktaviani Putri
+Statistics Student | Data Analytics Enthusiast
